@@ -50,7 +50,7 @@
     "@types/semver": "^7",
     "commander": "^11.1.0",
     "dotenv": "^16.0.3",
-    "lint-staged": "^13.1.1",
+    "lint-staged": "^16.0.0",
     "prettier": "^2.8.3",
     "semver": "^7.5.4",
     "turbo": "^1.13.3",
