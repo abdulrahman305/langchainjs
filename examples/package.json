@@ -65,7 +65,7 @@
     "@langchain/scripts": ">=0.0.1",
     "@langchain/textsplitters": "workspace:*",
     "@langchain/weaviate": "0.0.1",
-    "@langchain/xai": "workspace:*",
+    "@langchain/xai": "0.0.1",
     "@langchain/yandex": "0.0.1",
     "@layerup/layerup-security": "^1.5.12",
     "@opensearch-project/opensearch": "^2.2.0",
