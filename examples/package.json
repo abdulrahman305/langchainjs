@@ -41,7 +41,7 @@
     "@langchain/azure-cosmosdb": "0.1.0",
     "@langchain/azure-dynamic-sessions": "workspace:^",
     "@langchain/azure-openai": "workspace:*",
-    "@langchain/baidu-qianfan": "workspace:*",
+    "@langchain/baidu-qianfan": "0.0.2",
     "@langchain/cloudflare": "workspace:*",
     "@langchain/cohere": "workspace:*",
     "@langchain/community": "0.0.0",
