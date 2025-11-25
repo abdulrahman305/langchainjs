@@ -39,7 +39,7 @@
     "binary-extensions": "^2.2.0",
     "expr-eval": "^2.0.2",
     "flat": "^5.0.2",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "langchain": ">=0.0.4",
     "langsmith": ">=0.2.8 <0.4.0",
     "uuid": "^10.0.0",
